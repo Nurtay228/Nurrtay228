@@ -16,3 +16,5 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+Привет Меня зовут Нуртай,я пишу телеграм боты для удаленного управления компютерами,на языке python
+сам учусь программировать на Алгоритимике
