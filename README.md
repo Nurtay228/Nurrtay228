@@ -39,3 +39,4 @@
 ---
 
 ### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nurtay228&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
